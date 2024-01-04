@@ -1,10 +1,10 @@
 <h1>Hello, I'm Antonio Marcos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-Systems Analysis and Development student, from Brazil :brazil:
+Systems Analysis and Development student, from Brazil 🇺🇸
 
 ---
 
-Estudante de Análise e Desenvolvimento de Sistemas, do Brasil :brazil:
+Estudante de Análise e Desenvolvimento de Sistemas, do Brasil 🇧🇷
 
 ---
 
